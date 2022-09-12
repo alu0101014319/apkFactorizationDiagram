@@ -1,4 +1,4 @@
-# apkFactorizationDiagram
+Diagramas de Factorización
 
 Repositorio donde se aloja la primera versión de la aplicación Diagramas de factorización
 
